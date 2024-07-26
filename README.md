@@ -20,7 +20,15 @@ The way you'll do this at work is by exporting images directly from Figma — we
 
 Good luck and have fun!
 
-#Repo GitHub Pages Link:
+# The projects and it's functionality:
+
+This project gave me the opportunity to learn and display my knowledge with the difference in display: grid; and display: flex;. This allowed me to understand how to work with different resolutions and it's set up.
+
+# Technology used:
+
+A lot of the new technologies I got to use are the new lines such as @media screen, display: grid: along with grid-template-(area, columns, rows). I also got to strengthen my BEM knowledge as well as get the opportuniy to mess with transitions for buttons, box-sizing and understanding fonts and how to link them and find them online.
+
+# Repo GitHub Pages Link:
 
 # Link To Video
 
