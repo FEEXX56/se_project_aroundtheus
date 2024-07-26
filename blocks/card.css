@@ -1,10 +1,13 @@
 .card {
   display: flex;
   flex-direction: column;
+  border-radius: 10px;
   list-style: none;
+  overflow: hidden;
 }
 
 .card__title {
+  font-family: "Inter", Arial, sans-serif;
   max-width: 220px;
   font-size: 24px;
   font-weight: 900;
@@ -16,6 +19,7 @@
 }
 
 .card__image {
+  object-fit: cover;
   height: 282px;
   width: 282px;
 }
@@ -24,10 +28,7 @@
   display: flex;
   background-color: white;
   color: black;
-  padding-top: 25px;
-  padding-bottom: 25px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding: 25px 20px 25px 20px;
   align-items: center;
   justify-content: space-between;
 }
@@ -36,4 +37,12 @@
   background: transparent url(../images/like-inactive.svg) center no-repeat;
   width: 21px;
   height: 18px;
+  border-style: none;
+  padding: 0;
+  transition: ease 0.4s;
+}
+
+.card__like-button:hover {
+  opacity: 0.5;
+  cursor: pointer;
 }
