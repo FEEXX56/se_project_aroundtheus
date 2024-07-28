@@ -11,6 +11,11 @@
   box-sizing: border-box;
 }
 
+.header__image {
+  width: 173px;
+  height: 33px;
+}
+
 @media screen and (max-width: 595px) {
   .header__image {
     width: 126px;
