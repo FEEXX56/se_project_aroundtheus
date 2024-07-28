@@ -4,13 +4,6 @@
   padding-bottom: 41px;
 }
 
-.header {
-  margin-top: 28px;
-  padding-left: 27px;
-  padding-bottom: 32px;
-  box-sizing: border-box;
-}
-
 .header__image {
   width: 173px;
   height: 33px;
@@ -20,5 +13,12 @@
   .header__image {
     width: 126px;
     height: 24px;
+  }
+
+  .header {
+    margin-top: 28px;
+    padding-left: 27px;
+    padding-bottom: 32px;
+    box-sizing: border-box;
   }
 }
