@@ -30,6 +30,8 @@ A lot of the new technologies I got to use are the new lines such as @media scre
 
 # Repo GitHub Pages Link:
 
+https://feexx56.github.io/se_project_aroundtheus/
+
 # Link To Video
 
 https://drive.google.com/drive/folders/1jxHTmc3-LyyYu_Z1cPaFhSd3axRZ9_7p?usp=sharing
