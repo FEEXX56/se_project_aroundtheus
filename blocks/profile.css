@@ -53,8 +53,9 @@
   grid-area: title;
   margin: 0;
   white-space: nowrap;
-  text-overflow: ellipsis;
   max-width: 373px;
+  overflow: hidden;
+  text-overflow: clip;
 }
 
 .profile__description {
